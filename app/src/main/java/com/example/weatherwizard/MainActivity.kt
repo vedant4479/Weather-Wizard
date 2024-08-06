@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-//e5177abe511133a4b7f8eb8e9f3fe666 API Key
+//e5177abe511133a4b7f8eb8e9f3fe666
 class MainActivity : AppCompatActivity() {
     private val binding: ActivityMainBinding by lazy{
         ActivityMainBinding.inflate(layoutInflater)
